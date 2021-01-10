@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 console.log(`
-Harsh Singh
+Hi I'm, Harsh Singh.
 
-I am a web developer with keen passion and experience in Problem Solving, Data Structures and Algorithms and C++.
+A web developer with keen passion and experience in Problem Solving, Data Structures and Algorithms and C++.
 👩‍💻👨‍💻.
 
 Like to participate in hackathons, e-summits etc. and also have won a couple of hackathons.

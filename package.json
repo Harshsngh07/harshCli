@@ -1,5 +1,5 @@
 {
-  "name": "harsh",
+  "name": "harshclitest",
   "version": "1.0.0",
   "bin": {
     "harsh": "index.js"
