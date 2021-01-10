@@ -3,5 +3,12 @@
   "version": "1.0.1",
   "bin": {
     "harsh": "index.js"
+  },
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/package/harshclitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Harshsngh07/harshcli.git"
   }
 }
