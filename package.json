@@ -1,0 +1,7 @@
+{
+  "name": "harsh",
+  "version": "1.0.0",
+  "bin": {
+    "harsh": "index.js"
+  }
+}
